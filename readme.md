@@ -15,7 +15,7 @@ Built using my own game engine for HTML5/Canvas
 I am aware. This is infact the point of the jam. This is a low effort testing scene, made in three ours with my single braincell in my pocket.  
   
 ## Is there an itch.io link?  
-Maybe. I don't have one right now because I haven't submitted as I type this. If I can be bothered, it'll be here: \[not here yet\]  
+[It only took like a year, but there is now](https://hi-ashleyj.itch.io/legj9-ascii-tree-simulator) 
   
 ## Licence?  
 You are NOT permitted to use the game engine it is built in (llama.js) and external components without express permission from the developer (me), outside of the context of this game. Modifications to this game are permitted given they are forks on github, and free to play. Copying the engine and/or components to create a new, unrelated game is not permitted.  
