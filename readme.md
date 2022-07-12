@@ -13,6 +13,9 @@ Built using my own game engine for HTML5/Canvas
   
 ## It's not polished  
 I am aware. This is infact the point of the jam. This is a low effort testing scene, made in three ours with my single braincell in my pocket.  
+
+## Maintainence?
+Nope! That's it. I'm going to be archiving and leaving this game alone forever. That's why it's got "archive" at the top.
   
 ## Is there an itch.io link?  
 [It only took like a year, but there is now](https://hi-ashleyj.itch.io/legj9-ascii-tree-simulator) 
